@@ -1,0 +1,4 @@
+Exitem 3 pontos principais de  em uma automação
+seletor errado, seletor mudou , seletor dinamico ( seletor como pega o elemento)
+sincronismo
+programação exotica ( quando o programador)
