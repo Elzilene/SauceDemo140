@@ -16,6 +16,8 @@ class TestSelecionarProduto():
     self.vars = {}
     self.driver.implicitly_wait(5)   # irá esperar qualquer elemento por até 5 segundos <-- Melhor
   
+
+  
   def teardown_method(self, method):
     self.driver.quit()
   
